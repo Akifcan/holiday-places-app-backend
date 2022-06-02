@@ -1,0 +1,6 @@
+db:
+  mongo:
+    url: 'SİZİN VERİTABANINIZ'
+    password: ''
+    collection: ''
+
