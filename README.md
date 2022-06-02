@@ -23,8 +23,27 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+Merhaba, React.js ve Next.js kullanarak geliştireceğimiz projemize hoş geldiniz. Bu projemizde Graphql kullanarak bir tatil yerlerini listelediğimiz uygulama geliştireceğiz. Uygulamamızın akışı şu şekilde olacak. İlk önce 81 tane ili listeleyeceğiz ve seçilen ile eklenen tatil yerleri, gezilecek yerler vs. görüntülenebilecek. Daha görüntülenen yerlere yorum yapma özelliğini ekleyeceğiz. Yapılan yorumların ortalaması verilen her yıldızın yüzdesini de ayrı bir şekilde göstereceğiz. Ayrıca mekan ekleme sayfasını da oluşturacağız bu sayfamız için ve yorum ekleme modalımız için kullanabileceğimiz bir validation sınıfı oluşturacağız. Bu oluşturacağımız validation sınıfını daha sonra kullanacağımız yerlere de hızlıca entegre edebiliriz. İlk önce ara yüzü oluşturduktan sonra Apollo ile bağlantımızı kuracağız. Projemizde kullanacağımız backend projesine hazır olarak erişebilirsiniz. Github repository linkini ekleyeceğim. Backend için sadece veritabanı kurulumu yapmak yeterli olacak. Backend uygulaması mongodb kullanıyor o yüzden mongodb atlas üzerinden veritabanı oluşturabiliriz. Kullanacağımız teknolojiler ise şu şekilde olacak:
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+- React.js
+
+- Next.js
+
+- Apollo Graphql
+
+- Timeago.js
+
+- Chakra UI
+
+Ayrıca graphql query ve mutationlarımızı hazır olarak Github'a ekleyeceğim oradan kopyalayıp uygulamamız içerisinde kullanabilirsiniz. Backend uygulamamız nest.js kullanarak çalışıyor o yüzden ilk önce bilgisayarınıza nest.js'i yükleyin. Fakat backend tarafında her hangi bir şekilde işlem yapmayacağız sadece projemizi ayağa kaldıracağız. Bu serimiz tamamen frontend development üzerine olacak. Kursun genel akışı ise şu şekilde:
+
+Gerekli kurulumların yapılması.
+
+Ara yüz
+
+Validation Sınıfı
+
+Backend ile bağlantı
 
 ## Installation
 
